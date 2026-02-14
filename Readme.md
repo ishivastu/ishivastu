@@ -80,4 +80,4 @@ A clean and responsive portfolio website to showcase my skills and projects.
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ Feel free to explore my repositories and connect with me!*
