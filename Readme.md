@@ -9,42 +9,40 @@
 
 ## 👨‍💻 About Me
 
+
 I am Shivastu Mishra, currently a 3rd year undergraduate student in Information Technology at IIIT Bhopal.
 I have completed full stack development using the MERN stack and enjoy building real-world web applications.
-I actively practice Data Structures and Algorithms and have solved 200+ problems on LeetCode.
+I actively practice Data Structures and Algorithms and have solved 250+ problems on LeetCode.
 
 I am passionate about backend development, REST APIs, and building scalable systems.
 Currently, I am looking for internship and project-based opportunities to gain industry experience.
 
 ---
 
-## 🛠️ Skills
+## 🚀 Tech Stack & Tools I Use
 
-**Languages & Web**
-- HTML, CSS, JavaScript
-- React.js
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend**
-- Node.js, Express.js
-- RESTful APIs
-- JWT Authentication
-- bcrypt (Password Hashing)
-- Multer (File Uploads)
+### 🧠 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**Databases**
-- MongoDB, MySQL
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-**Problem Solving**
-- Data Structures & Algorithms
-- Graphs (BFS, DFS)
-- 200+ LeetCode problems solved
+### 🧰 Dev Tools
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-**Tools**
-- Git & GitHub
-- Linux
-- Postman
-
----
 
 ## 🚀 Projects
 
@@ -56,13 +54,6 @@ Features include JWT authentication, secure password hashing using bcrypt, and i
 <!-- 🔗 GitHub: https://github.com/yourusername/your-chat-app-repo -->
 <!-- 🌐 Live Demo: https://your-live-link.com -->
 
----
-
-### 🔹 Full Stack Web Applications (MERN)
-Developed multiple full stack web applications with authentication, CRUD operations, and REST APIs.
-
-**Tech Stack:** MERN
-<!-- 🔗 GitHub: https://github.com/yourusername/your-project-repo -->
 
 ---
 
@@ -70,16 +61,16 @@ Developed multiple full stack web applications with authentication, CRUD operati
 A clean and responsive portfolio website to showcase my skills and projects.
 
 **Tech Stack:** HTML, CSS, JavaScript
-🔗 GitHub: https://github.com/yourusername/portfolio
-🌐 Live: https://your-portfolio-link.com
+<!-- 🔗 GitHub: https://github.com/yourusername/portfolio -->
+<!-- 🌐 Live: https://your-portfolio-link.com -->
 
 ---
 
-## 📈 Coding Profiles
+## Connect With me
 
 <!-- - LeetCode: https://leetcode.com/yourusername -->
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
+- GitHub: https://github.com/ishivastu
+- LinkedIn: https://www.linkedin.com/in/shivastu-mishra-293684290/
 
 ---
 
