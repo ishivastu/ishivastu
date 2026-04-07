@@ -12,7 +12,7 @@
 
 I am Shivastu Mishra, currently a 3rd year undergraduate student in Information Technology at IIIT Bhopal.
 I have completed full stack development using the MERN stack and enjoy building real-world web applications.
-I actively practice Data Structures and Algorithms and have solved 250+ problems on LeetCode.
+I actively practice Data Structures and Algorithms.
 
 I am passionate about backend development, REST APIs, and building scalable systems.
 Currently, I am looking for internship and project-based opportunities to gain industry experience.
@@ -52,7 +52,7 @@ Features include JWT authentication, secure password hashing using bcrypt, and i
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Socket.IO
 <!-- 🔗 GitHub: https://github.com/yourusername/your-chat-app-repo -->
-<!-- 🌐 Live Demo: https://your-live-link.com -->
+🌐 Live Demo: https://fullstackk-chat-app-1.onrender.com/login
 
 
 ---
