@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me->
 
 
 I am Shivastu Mishra, currently a 3rd year undergraduate student in Information Technology at IIIT Bhopal.
