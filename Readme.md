@@ -3,7 +3,6 @@
 🎓 3rd Year B.Tech IT Student at IIIT Bhopal
 🏫 Schooling from Kendriya Vidyalaya (KV)
 💻 MERN Stack Developer
-🧠 Solved 200+ problems on LeetCode
 
 ---
 
