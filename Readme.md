@@ -46,7 +46,3 @@ Mobile app for tracking meals, calories, and daily macronutrients with a clean, 
 </div>
 ---
  
-<div align="center">
-📫 Reach out via [LinkedIn](https://linkedin.com/in/shivastu-mishra-293684290) or [email](mailto:shivastumishra@gmail.com) — open to internship and SDE opportunities.
- 
-</div>
