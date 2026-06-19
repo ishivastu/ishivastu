@@ -49,5 +49,4 @@ Cross-platform mobile app for tracking meals, calories, and daily macronutrients
 <br/>
 <img src="https://streak-stats.demolab.com/?user=ishivastu&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ishivastu&style=flat&color=58a6ff" alt="Profile views" />
 </div>
