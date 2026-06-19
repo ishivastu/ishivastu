@@ -37,15 +37,12 @@ Mobile app for tracking meals, calories, and daily macronutrients with a clean, 
  
 ---
  
-### 📊 GitHub Stats
  
 <div align="center">
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ishivastu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ishivastu&theme=dark&hide_border=false)
- 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ishivastu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- 
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ishivastu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivastu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=ishivastu&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 ---
  
