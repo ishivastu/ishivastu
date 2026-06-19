@@ -3,21 +3,27 @@ Final-year **Information Technology** student at **IIIT Bhopal** Building with *
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivastu-mishra-293684290) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sad-Replacement-1630) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivastumishra@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivastu-mishra-293684290) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sad-Replacement-1630) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivastumishra@gmail.com)<br>
+---
 
 ### 🚀 Featured Projects
  
-**🛒 [Next.js E-Commerce Platform](https://github.com/ishivastu/next-ecommerce2)**
+**🍁 Next.js E-Commerce Platform**
 Full-stack e-commerce app with edge-compatible JWT authentication, Redis caching for performance, and Razorpay payment integration with webhook handling for order verification.
 `Next.js` `MongoDB` `Redis` `Razorpay` `JWT (jose)`
+🔗 [Live Demo](https://your-ecommerce-app.vercel.app) &nbsp;|&nbsp; [Source Code](https://github.com/ishivastu/next-ecommerce2)
+</br></br>
  
-**💬 [Real-Time Chat Application](https://github.com/ishivastu/fullstackk-chat-app)** · [Mobile version](https://github.com/ishivastu/worsed_mobile_apk_chat)
+**🍁 Real-Time Chat Application**
 Real-time messaging platform with Socket.io-powered live chat, JWT authentication, and an integrated AI chatbot via the OpenRoute API.
 `React` `React Native` `Node.js` `Socket.io` `MongoDB`
+🔗 [Live Demo](https://your-chat-app.vercel.app) &nbsp;|&nbsp; [Source Code](https://github.com/ishivastu/fullstackk-chat-app) &nbsp;|&nbsp; [Mobile version](https://github.com/ishivastu/worsed_mobile_apk_chat)
+</br></br>
  
-**📱 [MacroZone](https://github.com/ishivastu/macrozone)**
+**🍁 MacroZone**
 Mobile app for tracking meals, calories, and daily macronutrients with a clean, intuitive UX.
 `React Native` `Expo`
+🔗 [Source Code](https://github.com/ishivastu/macrozone)
  
 ---
 
@@ -27,7 +33,7 @@ Mobile app for tracking meals, calories, and daily macronutrients with a clean, 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
  
 **Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-18181B?style=flat&logo=react&logoColor=white)
  
 **Backend & Database**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&logoColor=white)
@@ -44,5 +50,4 @@ Mobile app for tracking meals, calories, and daily macronutrients with a clean, 
 <br/>
 <img src="https://streak-stats.demolab.com/?user=ishivastu&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
----
  
