@@ -11,13 +11,13 @@ Final-year **Information Technology** student at **IIIT Bhopal**, building with 
 **🍁 Next.js E-Commerce Platform**
 Full-stack e-commerce app with edge-compatible JWT authentication, Redis caching for performance, and Razorpay payment integration with webhook handling for order verification.
 `Next.js` `MongoDB` `Redis` `Razorpay` `JWT (jose)`
-🔗 [Live Demo](https://your-ecommerce-app.vercel.app) &nbsp;|&nbsp; [Source Code](https://github.com/ishivastu/next-ecommerce2)
+🔗 [Live Demo](https://next-ecommerce2-alpha.vercel.app/) &nbsp;|&nbsp; [Source Code](https://github.com/ishivastu/next-ecommerce2)
 </br></br>
 
 **🍁 Real-Time Chat Application**
 Real-time messaging platform with Socket.io-powered live chat, JWT authentication, and an integrated AI chatbot via the OpenRoute API.
 `React` `React Native` `Node.js` `Socket.io` `MongoDB`
-🔗 [Live Demo](https://your-chat-app.vercel.app) &nbsp;|&nbsp; [Source Code](https://github.com/ishivastu/fullstackk-chat-app) &nbsp;|&nbsp; [Mobile version](https://github.com/ishivastu/worsed_mobile_apk_chat)
+🔗 [Live Demo](https://fullstackk-chat-app-2.onrender.com) &nbsp;|&nbsp; [Source Code](https://github.com/ishivastu/fullstackk-chat-app) &nbsp;|&nbsp; [Mobile version](https://github.com/ishivastu/worsed_mobile_apk_chat)
 </br></br>
 
 **🍁 MacroZone**
